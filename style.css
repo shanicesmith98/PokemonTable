@@ -1,0 +1,44 @@
+.everything {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+table {
+  background-color: white;
+  padding: 10px;
+}
+
+.first {
+  background-color: #63aa89;
+}
+
+.second {
+  background-color: #62a9a4;
+}
+
+th {
+  font-size: 16px;
+  font-family: 'K2D', sans-serif;
+  text-transform: uppercase;
+  color: white;
+  text-decoration: underline;
+  background-color: #6266a8;
+  padding: 5px;
+}
+
+td {
+  font-family: 'Scope One', serif;
+  font-size: 16px;
+  padding: 20px;
+  text-align: center;
+}
+
+border {
+  1px black solid;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+}
